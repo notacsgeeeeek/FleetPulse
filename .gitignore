@@ -1,0 +1,7 @@
+.venv/
+.agents/
+.claude/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+data/raw/*.h5
